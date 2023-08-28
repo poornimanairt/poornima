@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋,this is Poornima, your friendly neighborhood Dev :))</h1>
-<h3 align="center">I'm a frontend developer with 2 years of hands on experience</h3>
+<h3 align="center">I'm a frontend developer with more than 2 years of hands on experience</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
